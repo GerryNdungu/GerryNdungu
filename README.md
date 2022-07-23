@@ -1,19 +1,10 @@
-### Hi there 👋
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-### Hi there 👋 I'm [Gerry]
+### Hi there 👋 I'm [Gerry] 🤓
 > Software Engineer
-
-
-<img src="https://komarev.com/ghpvc/?username=GerryNdungu" alt="GerryNdungu" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am Full Stack Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
@@ -37,8 +28,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gerald-giteru/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@geraldgiteru-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:geraldgiteru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+ ⭐️<a href="mailto:geraldgiteru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-geraldgiteru@gmail.com-green?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+
