@@ -22,7 +22,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![GerryNdungu GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerryNdungu&show_icons=true&count_private=true)](https://github.com/GerryNdungu)
+[![GiteruGerald GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiteruGerald&show_icons=true&count_private=true)](https://github.com/GiteruGerald)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
