@@ -23,8 +23,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### Github Stats
 
 [![GiteruGerald GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiteruGerald&show_icons=true&count_private=true)](https://github.com/GiteruGerald)
+<a href="https://github.com/GiteruGerald/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiteruGerald&layout=compact&theme=tokyonight&hide_border=true" alt="GerryJ's Top Languages"/>
+</a>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me [here](https://geraldgiteru.netlify.app) </h3>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gerald-giteru/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@geraldgiteru-blue?style=flat&logo=linkedin"></a>
