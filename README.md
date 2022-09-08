@@ -32,7 +32,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiteruGerald&layout=compact&theme=tokyonight&hide_border=true" alt="GerryJ's Top Languages"/>
 </a>
 
-### 🤝🏻 Connect with Me [here](https://geraldgiteru.netlify.app)
+### 🤝🏻 Connect with Me [on my personal website](https://geraldgiteru.netlify.app)
 
 
 <p align="center">
